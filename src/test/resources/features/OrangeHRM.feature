@@ -8,5 +8,6 @@ Feature:OrangeHRM login and log out feature verifications
     And User clicks to login button
 
     Examples:
-    |         |
+    |   password      |
+    # hello changes
 
